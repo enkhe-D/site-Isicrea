@@ -1,0 +1,78 @@
+@media only screen and (max-width: 662px) {
+  * {
+    border: 1px solid;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  body {
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+  }
+  #headIsicrea {
+    border: 2px solid black;
+  }
+
+  li {
+    padding: none;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  img {
+    width: 200px;
+  }
+
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+}
+
+/* *,
+h1 {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+} */
+
+/* body {
+  background-color: #242038;
+  color: white;
+} */
+
+/*header {
+  background-color: rgb(159, 159, 214);
+  /* background-image: url(/images/laine.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+/*height: 400px;
+  width: 100%;
+}*/
+
+/* header,
+ul {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+} */
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: ;
+}
+
+a:hover {
+  color: red;
+  border-bottom: 2px solid black;
+}
+
+/* img {
+  width: 100%;
+} */
